@@ -128,3 +128,23 @@ h2{
     background-color: rgb(218, 165, 5);
     border-radius: 12px;
 }
+
+#Websitebadge{
+    font-size: 14px;
+    color: white;
+    margin-left: 10px;
+    font-size: 12px;
+    padding: 8px 14px;
+    background-color: rgb(170, 61, 194);
+    border-radius: 12px;
+}
+
+#Salesbadge{
+    font-size: 14px;
+    color: white;
+    margin-left: 10px;
+    font-size: 12px;
+    padding: 8px 14px;
+    background-color: rgb(92, 190, 68);
+    border-radius: 12px;
+}
